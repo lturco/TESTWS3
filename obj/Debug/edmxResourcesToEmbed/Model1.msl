@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="db2c4930088b164b7ca93ba727002340a2ModelStoreContainer" CdmEntityContainer="db2c4930088b164b7ca93ba727002340a2Entities">
+    <EntitySetMapping Name="personas">
+      <EntityTypeMapping TypeName="db2c4930088b164b7ca93ba727002340a2Model.personas">
+        <MappingFragment StoreEntitySet="personas">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="edad" ColumnName="edad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

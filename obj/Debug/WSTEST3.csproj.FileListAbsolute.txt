@@ -1,0 +1,10 @@
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\WSTEST3.dll.config
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\WSTEST3.dll
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\WSTEST3.pdb
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\obj\Debug\WSTEST3.dll
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\obj\Debug\WSTEST3.pdb
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\obj\Debug\WSTEST3.csprojResolveAssemblyReference.cache
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\EntityFramework.dll
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\EntityFramework.SqlServer.dll
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\EntityFramework.xml
+F:\ServicioWebTEST\SWEjemplo2\WSTEST3\bin\EntityFramework.SqlServer.xml
